@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: sans-serif;
+
+}
+.CONTAINER{
+    width: 100%;
+   background: linear-gradient(rgkba(0,0,0,0,5),rgba(0,0,0,0,5)),url(images.jpg);
+   background-size: cover;
+   background-position: center;
+}
